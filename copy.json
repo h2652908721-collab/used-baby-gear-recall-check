@@ -1,0 +1,70 @@
+{
+  "brand": "BabySafe Check",
+  "tagline": "Used baby gear? Check the model once, buy with confidence.",
+  "hero_headline": "Don't know if that model is recalled?",
+  "hero_sub": "Check CPSC recalls, expiration dates, and federal compliance in seconds. Every model. Every time.",
+  "pains": [
+    "Secondhand marketplaces are a mess. You don't know if a model is recalled—and buying something unsafe keeps you up at night.",
+    "Car seats and cribs expire. You don't know how much life is left in that used gear.",
+    "Federal safety standards change constantly. Old gear might not meet current rules—or be legal to resell."
+  ],
+  "features": [
+    {
+      "title": "Recall Lookup",
+      "desc": "Instant CPSC data: see if your model is recalled and why"
+    },
+    {
+      "title": "Expiration Check",
+      "desc": "Automatically identify car seat expiration and crib lifespan limits"
+    },
+    {
+      "title": "Compliance Check",
+      "desc": "Compare against current federal safety standards in real-time"
+    },
+    {
+      "title": "Resale Legality",
+      "desc": "Know if it's legal to resell—avoid unexpected legal trouble"
+    }
+  ],
+  "how": [
+    {
+      "step": "Enter the model",
+      "desc": "Type the product name and exact model number"
+    },
+    {
+      "step": "Get your answer",
+      "desc": "See recalls, expiration status, and compliance instantly"
+    },
+    {
+      "step": "Buy with confidence",
+      "desc": "Only pay if it's safe. Rest easy on purchase or resale."
+    }
+  ],
+  "proof": "We've mapped CPSC recalls and federal standards across thousands of models. Early beta users get free lookups forever.",
+  "cta": "Join Beta",
+  "cta_sub": "First 500 users get free unlimited searches forever. Data updates real-time.",
+  "faq": [
+    {
+      "q": "Where does the data come from?",
+      "a": "Official CPSC, FDA, and manufacturer databases—100% verified"
+    },
+    {
+      "q": "Is it really free?",
+      "a": "Free for parents, forever. Resale shops and platforms have a paid tier."
+    },
+    {
+      "q": "How often do you update?",
+      "a": "Recalls and safety standards sync in real-time. Always the latest info."
+    }
+  ],
+  "seo_pages": [
+    "When do car seats expire",
+    "Is it legal to resell used cribs",
+    "CPSC 2025 infant sleep product rules",
+    "How to check if baby products are recalled",
+    "Buying secondhand strollers safely",
+    "Federal car seat side-impact standards explained"
+  ],
+  "disclaimer": "⚠️ This tool provides safety information only, not legal advice. Consult a local attorney before reselling used gear. CPSC official recall notices are always the final authority.",
+  "lang": "en"
+}
