@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://h2652908721-collab.github.io/used-baby-gear-recall-check/sitemap.xml
